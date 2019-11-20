@@ -1,5 +1,5 @@
 # workflow 的名称
-name: Cloudflare Workers Api
+name: Cloudflare Workers Deploy
 
 # 监听触发事件
 on:
