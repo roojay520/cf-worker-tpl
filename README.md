@@ -10,7 +10,7 @@ workers 文档: [cloudflare workers](https://developers.cloudflare.com/workers/)
 
 ## 请求示例
 
-接口描述: 根据 id 随机获取一句毒鸡汤 id(max:1210)
+接口描述: 获取一个随机数
 
 请求地址: `https://tpl.fe.workers.dev`
 
