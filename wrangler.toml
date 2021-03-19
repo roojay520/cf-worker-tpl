@@ -1,4 +1,4 @@
-name = "soul-soup"
+name = "tpl"
 type = "webpack"
 account_id = "ed99589c08b7d30100abca9cc5c90aac"
 workers_dev = true
